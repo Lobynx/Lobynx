@@ -1,0 +1,5 @@
+-Hi, I’m Carlos Augusto
+-I’m interested in programing, cooking, gaming, Airsoft
+-I’m currently learning Python, C, gamification
+-I'm a student of IT at Federal University of Goiás
+-How to reach me CarlosASRamos.2001@gmail.com
